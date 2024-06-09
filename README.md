@@ -78,7 +78,25 @@ Requirements engineering (RE) is the process of understanding, defining, documen
 
 **Software Design Principles:**
 
-Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+**Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?**
+
+Modularity in software design refers to the practice of decomposing a program into smaller, self-contained units called modules.  Each module performs a specific task and interacts with other modules through well-defined interfaces.
+
+**Benefits of Modularity:**
+
+**Improved Maintainability:** Isolated modules make it easier to identify, understand, and fix issues without affecting the entire system.
+**Enhanced Scalability:** Modules can be easily added, removed, or modified to extend functionality or adapt to changing requirements.
+**Promotes Reusability:** Well-designed modules can be reused in different projects, saving development time and effort.
+**Reduced Complexity:** Breaking down complex systems into smaller units simplifies development, testing, and debugging.
+
+**How Modularity Improves Maintainability and Scalability:**
+
+**Modular Design Isolates Changes:** Modifying one module has minimal impact on others, reducing the risk of unintended consequences.
+**Modular Units are Easier to Understand:** Developers can focus on understanding the internal workings of a single module, improving maintainability.
+**Scalable Modules Can Be Added or Replaced:** Adding new features often involves creating new modules or modifying existing ones. This allows the system to grow organically without a complete overhaul.
+
+In essence, modularity promotes a "divide and conquer" approach, making software development more manageable, adaptable, and sustainable in the long run. (madhurihammad, 2023)
+
 
 Testing in Software Engineering:
 
