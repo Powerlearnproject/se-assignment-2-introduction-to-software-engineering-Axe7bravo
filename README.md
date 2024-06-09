@@ -55,10 +55,31 @@ Agile and Waterfall are two prominent software development methodologies with di
 
 **Requirements Engineering:**
 
-What is requirements engineering? Describe the process and its importance in the software development lifecycle.
-Software Design Principles:
+**What is requirements engineering? Describe the process and its importance in the software development lifecycle.**
+
+Requirements engineering (RE) is the process of understanding, defining, documenting, and managing the needs and expectations of stakeholders for a software system.  It acts as the foundation for the entire software development lifecycle (SDLC). (02DCE, 2024).
+
+**The RE Process:**
+
+**Elicitation:** Gathering requirements from stakeholders (e.g., users, clients) through interviews, workshops, and document analysis.
+**Analysis:** Evaluating and refining the gathered requirements for clarity, feasibility, and consistency.
+**Specification:** Documenting the agreed-upon requirements in a clear and concise manner.
+**Verification:** Ensuring the documented requirements accurately reflect stakeholder needs.
+**Validation:** Confirming the developed software meets the specified requirements.
+**Management:** Tracking, maintaining, and updating requirements throughout the SDLC.
+
+**Importance of RE:**
+
+**Clear Vision:** Defines the "what" and "why" of the software, ensuring everyone involved is on the same page.
+**Reduced Risk:** Helps avoid costly rework and scope creep by identifying and addressing issues early.
+**Improved Quality:** Leads to software that meets user needs and delivers expected functionality.
+**Efficient Development:** Provides a solid foundation for design, development, and testing activities.
+
+
+**Software Design Principles:**
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+
 Testing in Software Engineering:
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
