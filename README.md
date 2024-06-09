@@ -6,7 +6,7 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 **Questions:**
-##**Define Software Engineering:**
+## **Define Software Engineering:**
 
 **What is software engineering, and how does it differ from traditional programming?**
 
@@ -15,7 +15,7 @@ Software engineering is a broader discipline that encompasses the entire lifecyc
 In essence, software engineering is like building a bridge – you need a plan, consider various factors, and ensure a robust final product. Traditional programming is like laying the bricks – it's an important step, but just one piece of the whole project.
 
 
-##**Software Development Life Cycle (SDLC):**
+## **Software Development Life Cycle (SDLC):**
 
 **Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.**
 
@@ -53,7 +53,7 @@ Agile and Waterfall are two prominent software development methodologies with di
 *   **Waterfall is preferred for:** Projects with well-defined requirements, strict regulations, and a clear vision upfront. (e.g., embedded systems development)
 
 
-##**Requirements Engineering:**
+## **Requirements Engineering:**
 
 **What is requirements engineering? Describe the process and its importance in the software development lifecycle.**
 
@@ -76,7 +76,7 @@ Requirements engineering (RE) is the process of understanding, defining, documen
 *   **Efficient Development:** Provides a solid foundation for design, development, and testing activities.(02DCE, 2024)
 
 
-##**Software Design Principles:**
+## **Software Design Principles:**
 
 **Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?**
 
@@ -98,7 +98,7 @@ Modularity in software design refers to the practice of decomposing a program in
 In essence, modularity promotes a "divide and conquer" approach, making software development more manageable, adaptable, and sustainable in the long run. (madhurihammad, 2023)
 
 
-##**Testing in Software Engineering:**
+## **Testing in Software Engineering:**
 
 **Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?**
 
@@ -137,7 +137,7 @@ Who: End-users or designated testers
 Testing provides a safety net throughout development, ensuring a high-quality software product reaches the end user. (Hamilton, 2024)
 
 
-##**Version Control Systems:**
+## **Version Control Systems:**
 
 **What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.**
 
@@ -162,7 +162,7 @@ VCS fosters a collaborative and efficient development environment. It provides a
 In essence, VCS is the backbone of modern software development, promoting code quality, collaboration, and efficient project management. (Bitbucket, n.d.)
 
 
-##**Software Project Management:**
+## **Software Project Management:**
 
 **Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?**
 
@@ -184,7 +184,7 @@ A software project manager is the glue that holds a development team together. T
 *	**Adapting to Change:** Software development is an ever-evolving field. Project managers need to be adaptable to accommodate changing requirements and technologies. (Gaba, 2023)
 
 
-##**Software Maintenance:**
+## **Software Maintenance:**
 
 **Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?**
 
@@ -207,7 +207,7 @@ Software maintenance is the ongoing process of fixing errors, enhancing features
 In essence, software maintenance is not an afterthought; it's an essential part of the software lifecycle that keeps your software performing well, meeting user needs, and staying competitive in a constantly evolving technological landscape. (Javatpoint, n.d.)
 
 
-##**Ethical Considerations in Software Engineering:**
+## **Ethical Considerations in Software Engineering:**
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 
@@ -230,7 +230,7 @@ Software engineers play a crucial role in shaping our digital world. However, th
 By prioritizing these aspects, software engineers can ensure their work aligns with ethical principles, fostering trust and responsible innovation. (Gotterbarn, et al., 1997)
 
 
-Works Cited
+## Works Cited
 02DCE, 2024. Requirements Engineering Process in Software Engineering. [Online] 
 Available at: https://www.geeksforgeeks.org/software-engineering-requirements-engineering-process/
 Bitbucket, n.d. Version control software. [Online] 
