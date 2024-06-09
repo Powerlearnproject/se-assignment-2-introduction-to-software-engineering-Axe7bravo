@@ -207,12 +207,50 @@ Software maintenance is the ongoing process of fixing errors, enhancing features
 In essence, software maintenance is not an afterthought; it's an essential part of the software lifecycle that keeps your software performing well, meeting user needs, and staying competitive in a constantly evolving technological landscape. (Javatpoint, n.d.)
 
 
-Ethical Considerations in Software Engineering:
+**Ethical Considerations in Software Engineering:**
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 
-Submission Guidelines:
-Your answers should be well-structured, concise, and to the point.
-Provide real-world examples or case studies wherever possible.
-Cite any references or sources you use in your answers.
-Submit your completed assignment by [due date].
+Software engineers play a crucial role in shaping our digital world. However, this power comes with ethical considerations.Here are some common ethical issues software engineers might face:
+
+*	**Privacy Concerns:** Balancing user privacy with data collection needs.
+*	**Algorithmic Bias:** Ensuring algorithms are fair and unbiased, avoiding discrimination.
+*	**Security Vulnerabilities:** Prioritizing robust security measures to protect user data.
+*	**Autonomous Systems:** Considering the ethical implications of developing and deploying autonomous systems with decision-making capabilities.
+*	**Intellectual Property:** Understanding and respecting copyright laws to avoid plagiarism or misuse of code.
+
+Maintaining Ethical Practices:
+
+•	**Awareness:** Software engineers should be familiar with ethical codes of conduct established by professional societies (e.g., ACM Code of Ethics).
+•	**Transparency:** Advocating for transparency in algorithms and data collection practices.
+•	**Impact Assessment:** Considering the potential societal and individual impacts of software before development.
+•	**Whistle-Blowing:** Having the courage to speak up against unethical practices within their organization.
+•	**Lifelong Learning:** Continuously staying updated on ethical considerations in the evolving technological landscape.
+
+By prioritizing these aspects, software engineers can ensure their work aligns with ethical principles, fostering trust and responsible innovation. (Gotterbarn, et al., 1997)
+
+
+Works Cited
+02DCE, 2024. Requirements Engineering Process in Software Engineering. [Online] 
+Available at: https://www.geeksforgeeks.org/software-engineering-requirements-engineering-process/
+Bitbucket, n.d. Version control software. [Online] 
+Available at: https://bitbucket.org/product/version-control-software
+[Accessed 9 June 2024].
+Feder, M., 2023. programmer-vs-software-engineer-key-differences. [Online] 
+Available at: https://www.phoenix.edu/blog/programmer-vs-software-engineer-key-differences.html
+Gaba, I., 2023. What is Project Management?. [Online] 
+Available at: https://www.simplilearn.com/tutorials/project-management-tutorial/what-is-project-management
+[Accessed 9 June 2024].
+Gotterbarn, D., Miller, K. & Rogerson, S., 1997. Software Engineering Code. [Online] 
+Available at: https://ethics.acm.org/code-of-ethics/software-engineering-code/
+[Accessed 9 June 2024].
+Hamilton, T., 2024. Levels of Testing in Software Testing. [Online] 
+Available at: https://www.guru99.com/levels-of-testing.html
+[Accessed 9 June 2024].
+Javatpoint, n.d. Software Maintenance. [Online] 
+Available at: https://www.javatpoint.com/software-engineering-software-maintenance
+[Accessed 9 June 2024].
+madhurihammad, 2023. Modularity and its Properties. [Online] 
+Available at: https://www.geeksforgeeks.org/modularity-and-its-properties/
+
+
