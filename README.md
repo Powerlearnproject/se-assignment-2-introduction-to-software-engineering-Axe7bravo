@@ -25,32 +25,32 @@ Agile and Waterfall are two prominent software development methodologies with di
 
 **1. Agile Model:**
 
-* **Iterative development:** Breaks down projects into smaller, manageable "sprints" with frequent delivery and feedback loops.
-* **Adaptable:** Prioritizes flexibility and accommodates changes readily throughout the development process.
-* **Collaborative:** Focuses on close collaboration between developers and stakeholders.
-* **Less emphasis on upfront documentation:** Relies on ongoing communication and working prototypes for clarity.
+*   **Iterative development:** Breaks down projects into smaller, manageable "sprints" with frequent delivery and feedback loops.
+*   **Adaptable:** Prioritizes flexibility and accommodates changes readily throughout the development process.
+*   **Collaborative:** Focuses on close collaboration between developers and stakeholders.
+*   **Less emphasis on upfront documentation:** Relies on ongoing communication and working prototypes for clarity.
 
 **2. Waterfall Model:**
 
-* **Sequential phases:** Progresses through clearly defined stages (e.g., requirements gathering, design, development, testing, deployment) in a linear sequence.
-* **Strict planning:** Requires detailed upfront planning with well-defined requirements before development begins.
-* **Less adaptable:** Changes can be complex and costly to implement once a phase is complete.
-* **Extensive documentation:** Relies heavily on detailed documentation for each stage.
+*   **Sequential phases:** Progresses through clearly defined stages (e.g., requirements gathering, design, development, testing, deployment) in a linear sequence.
+*   **Strict planning:** Requires detailed upfront planning with well-defined requirements before development begins.
+*   **Less adaptable:** Changes can be complex and costly to implement once a phase is complete.
+*   **Extensive documentation:** Relies heavily on detailed documentation for each stage.
 
 
 **Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?**
 
 **Key Differences:**
 
-* **Approach:** Agile is iterative and adaptable, Waterfall is sequential and rigid.
-* **Planning:** Agile focuses on ongoing planning, Waterfall on upfront planning.
-* **Documentation:** Agile favors less documentation, Waterfall prioritizes extensive documentation.
-* **Change Management:** Agile readily accommodates changes, Waterfall changes are complex.
+*   **Approach:** Agile is iterative and adaptable, Waterfall is sequential and rigid.
+*   **Planning:** Agile focuses on ongoing planning, Waterfall on upfront planning.
+*   **Documentation:** Agile favors less documentation, Waterfall prioritizes extensive documentation.
+*   **Change Management:** Agile readily accommodates changes, Waterfall changes are complex.
 
 **Scenarios:**
 
-* **Agile is preferred for:** Projects with evolving requirements, short development cycles, and a need for flexibility. (e.g., mobile app development)
-* **Waterfall is preferred for:** Projects with well-defined requirements, strict regulations, and a clear vision upfront. (e.g., embedded systems development)
+*   **Agile is preferred for:** Projects with evolving requirements, short development cycles, and a need for flexibility. (e.g., mobile app development)
+*   **Waterfall is preferred for:** Projects with well-defined requirements, strict regulations, and a clear vision upfront. (e.g., embedded systems development)
 
 
 **Requirements Engineering:**
@@ -61,19 +61,19 @@ Requirements engineering (RE) is the process of understanding, defining, documen
 
 **The RE Process:**
 
-**Elicitation:** Gathering requirements from stakeholders (e.g., users, clients) through interviews, workshops, and document analysis.
-**Analysis:** Evaluating and refining the gathered requirements for clarity, feasibility, and consistency.
-**Specification:** Documenting the agreed-upon requirements in a clear and concise manner.
-**Verification:** Ensuring the documented requirements accurately reflect stakeholder needs.
-**Validation:** Confirming the developed software meets the specified requirements.
-**Management:** Tracking, maintaining, and updating requirements throughout the SDLC.
+*   **Elicitation:** Gathering requirements from stakeholders (e.g., users, clients) through interviews, workshops, and document analysis.
+*   **Analysis:** Evaluating and refining the gathered requirements for clarity, feasibility, and consistency.
+*   **Specification:** Documenting the agreed-upon requirements in a clear and concise manner.
+*   **Verification:** Ensuring the documented requirements accurately reflect stakeholder needs.
+*   **Validation:** Confirming the developed software meets the specified requirements.
+*   **Management:** Tracking, maintaining, and updating requirements throughout the SDLC.
 
 **Importance of RE:**
 
-**Clear Vision:** Defines the "what" and "why" of the software, ensuring everyone involved is on the same page.
-**Reduced Risk:** Helps avoid costly rework and scope creep by identifying and addressing issues early.
-**Improved Quality:** Leads to software that meets user needs and delivers expected functionality.
-**Efficient Development:** Provides a solid foundation for design, development, and testing activities.(02DCE, 2024)
+*   **Clear Vision:** Defines the "what" and "why" of the software, ensuring everyone involved is on the same page.
+*   **Reduced Risk:** Helps avoid costly rework and scope creep by identifying and addressing issues early.
+*   **Improved Quality:** Leads to software that meets user needs and delivers expected functionality.
+*   **Efficient Development:** Provides a solid foundation for design, development, and testing activities.(02DCE, 2024)
 
 
 **Software Design Principles:**
@@ -84,16 +84,16 @@ Modularity in software design refers to the practice of decomposing a program in
 
 **Benefits of Modularity:**
 
-**Improved Maintainability:** Isolated modules make it easier to identify, understand, and fix issues without affecting the entire system.
-**Enhanced Scalability:** Modules can be easily added, removed, or modified to extend functionality or adapt to changing requirements.
-**Promotes Reusability:** Well-designed modules can be reused in different projects, saving development time and effort.
-**Reduced Complexity:** Breaking down complex systems into smaller units simplifies development, testing, and debugging.
+*   **Improved Maintainability:** Isolated modules make it easier to identify, understand, and fix issues without affecting the entire system.
+*   **Enhanced Scalability:** Modules can be easily added, removed, or modified to extend functionality or adapt to changing requirements.
+*   **Promotes Reusability:** Well-designed modules can be reused in different projects, saving development time and effort.
+*   **Reduced Complexity:** Breaking down complex systems into smaller units simplifies development, testing, and debugging.
 
 **How Modularity Improves Maintainability and Scalability:**
 
-**Modular Design Isolates Changes:** Modifying one module has minimal impact on others, reducing the risk of unintended consequences.
-**Modular Units are Easier to Understand:** Developers can focus on understanding the internal workings of a single module, improving maintainability.
-**Scalable Modules Can Be Added or Replaced:** Adding new features often involves creating new modules or modifying existing ones. This allows the system to grow organically without a complete overhaul.
+*   **Modular Design Isolates Changes:** Modifying one module has minimal impact on others, reducing the risk of unintended consequences.
+*   **Modular Units are Easier to Understand:** Developers can focus on understanding the internal workings of a single module, improving maintainability.
+*   **Scalable Modules Can Be Added or Replaced:** Adding new features often involves creating new modules or modifying existing ones. This allows the system to grow organically without a complete overhaul.
 
 In essence, modularity promotes a "divide and conquer" approach, making software development more manageable, adaptable, and sustainable in the long run. (madhurihammad, 2023)
 
@@ -143,9 +143,9 @@ Testing provides a safety net throughout development, ensuring a high-quality so
 
 Version control systems (VCS) are essential tools for software development. They act as a central repository that tracks changes to code, files, and directories over time. This allows developers to:
 
-**Collaborate Effectively:** Multiple developers can work on the same project simultaneously without conflicts.
-**Track Changes:** See the history of changes made to the code, allowing for easy rollbacks if needed.
-**Improved Maintainability:** Makes it easier to identify who made what changes and when, aiding in debugging and maintenance.
+*   **Collaborate Effectively:** Multiple developers can work on the same project simultaneously without conflicts.
+*   **Track Changes:** See the history of changes made to the code, allowing for easy rollbacks if needed.
+*   **Improved Maintainability:** Makes it easier to identify who made what changes and when, aiding in debugging and maintenance.
 
 **Popular VCS and their Features:**
 
@@ -170,23 +170,25 @@ A software project manager is the glue that holds a development team together. T
 
 **Responsibilities:**
 
-•	**Project Planning & Definition:** Defining project scope, timeline, budget, and resource allocation.
-•	**Team Leadership & Communication:** Motivating and guiding the development team, ensuring clear communication between all stakeholders (developers, designers, clients).
-•	**Risk Management:** Identifying and mitigating potential risks that could derail the project.
-•	**Issue Tracking & Resolution:** Tracking project progress, addressing issues, and ensuring timely problem-solving.
-•	**Client/Stakeholder Management:** Managing client expectations, communicating project status, and securing necessary approvals.
+*	**Project Planning & Definition:** Defining project scope, timeline, budget, and resource allocation.
+*	**Team Leadership & Communication:** Motivating and guiding the development team, ensuring clear communication between all stakeholders (developers, designers, clients).
+*	**Risk Management:** Identifying and mitigating potential risks that could derail the project.
+*	**Issue Tracking & Resolution:** Tracking project progress, addressing issues, and ensuring timely problem-solving.
+*	**Client/Stakeholder Management:** Managing client expectations, communicating project status, and securing necessary approvals.
 
 **Challenges:**
 
-•	**Meeting Deadlines & Budget:** Balancing project scope, timelines, and budget constraints while ensuring quality delivery.
-•	**Managing Stakeholder Expectations:** Communicating effectively with diverse stakeholders, managing expectations, and navigating potential conflicts.
-•	**Resource Management:** Optimally allocating resources (people, tools, budget) to meet project goals.
-•	**Adapting to Change:** Software development is an ever-evolving field. Project managers need to be adaptable to accommodate changing requirements and technologies. (Gaba, 2023)
+*	**Meeting Deadlines & Budget:** Balancing project scope, timelines, and budget constraints while ensuring quality delivery.
+*	**Managing Stakeholder Expectations:** Communicating effectively with diverse stakeholders, managing expectations, and navigating potential conflicts.
+*	**Resource Management:** Optimally allocating resources (people, tools, budget) to meet project goals.
+*	**Adapting to Change:** Software development is an ever-evolving field. Project managers need to be adaptable to accommodate changing requirements and technologies. (Gaba, 2023)
 
 
-Software Maintenance:
+**Software Maintenance:**
 
-Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+**Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?**
+
+
 
 Ethical Considerations in Software Engineering:
 
